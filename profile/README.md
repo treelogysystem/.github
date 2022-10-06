@@ -2,7 +2,14 @@
 # TREELOGY-SYSTEM 
 
 ## Hi there 👋
-
+## ORDEM:
+### treelogy-commons-support-servers
+### treelogy-commons-config-server-profiles
+### treelogy-commons-config-server-service
+### treelogy-commons-discovery-server
+### treelogy-commons-api-gateway
+### treelogy-commons-authentication-server
+### treelogy-commons-model-microservice
 <!--
 
 **Here are some ideas to get you started:**
