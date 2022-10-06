@@ -19,8 +19,6 @@
 
  <!--ts-->
    * [FEATURES](#FEATURES)
-   * [AMBIENTE-LOCAL](#AMBIENTE-LOCAL)
-   * [AMBIENTE-CLOUD](#AMBIENTE-CLOUD)
    * [TECNOLOGIAS-UTILIZADAS](#TECNOLOGIAS-UTILIZADAS)
    * [AUTOR](#AUTOR)
    * [LICENÇA](#LICENÇA)
@@ -43,23 +41,13 @@
 ## ORDEM CONFIGURAÇÃO
 ---
 
-- [X] treelogy-commons-support-servers
-- [X] treelogy-commons-config-server-profiles
-- [X] treelogy-commons-config-server-service
-- [X] treelogy-commons-discovery-server
-- [X] treelogy-commons-api-gateway
-- [X] treelogy-commons-authentication-server
-- [X] treelogy-commons-model-microservice
-
-## AMBIENTE-LOCAL
----
-<p align="justify"> O ambiente local é apropriado para iniciar o desenvolvimento da aplicação, implementação de novas feature, e reduz significativamente os custo de hospedagem cloud.</p>
-
-<p align="justify"> Para confifgura.</p>
-
-
-## AMBIENTE-CLOUD
----
+- treelogy-commons-support-servers
+- treelogy-commons-config-server-profiles
+- treelogy-commons-config-server-service
+- treelogy-commons-discovery-server
+- treelogy-commons-api-gateway
+- treelogy-commons-authentication-server
+- treelogy-commons-model-microservice
 
 ## TECNOLOGIAS-UTILIZADAS
 ---
@@ -69,7 +57,7 @@ As seguintes tecnologias foram usadas na construção do projeto:
 - [DOCKER](https://docs.docker.com/desktop/windows/install/)
 - [KUBERNETES](https://kubernetes.io/pt-br/)
 - [RANCHER](https://rancher.com/)
-- [GOOGLE CLOUD](https://cloud.google.com/)
+
 
 ## **AUTOR**
 ---
