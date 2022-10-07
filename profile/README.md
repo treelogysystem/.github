@@ -2,12 +2,25 @@
 
 <img src="./assets/icone-treelogy-v2.png">
 
-<h3 align="justify">Repositório de configuração dos servidores de suporte</h3>
+<h3 align="justify">Repositório de versionamento do sistema treelogy</h3>
 
-## DESCRIÇÃO DO REPOSITÓRIO 
+## DESCRIÇÃO GERAL DO SISTEMA
 ---
 
-<p align="justify"> A aplicação Treelogy System possue uma complexa arquitetura, envolvendo tecnologias atualmente utilizadas no mercado, com o objetivo de oferecer uma infra estrutura eficente capaz de suprir as necessidades de desenvolvimento, monitoramento e suporte da aplicação, este repositório foi criado.Possibilitando o versionamento do código fonte, a documentação de instalação e configuração dos servidores de apoio</p>
+<p align="justify"> A novas tendências do mercado contemporâneo mudou a rotina de empresas e clientes com a chegado do e commerce, o mundo de compras e venda virtual, a grande adesão deste canal influenciada pela pandemia de 2021 vem ganhando mais importância devido a contribuição
+na proporção dos lucros das organizações, para algumas empresa foi a principal estratégia
+que manteve a lucratividade e os empregos de seus funcionários.
+Este canal acabou se tornando muito procurado e gerando projeções bastante positivas, ter um
+ambiente de venda virtual tornou-se algo primordial para grandes, médias e pequenas empresas.
+</p>
+
+<p align="justify">Contudo, para que a experiência do usuário seja satisfatória a ponto de realizar uma compra e de se tornar um cliente da marca, é necessário uma plataforma capaz de proporcionar
+qualidade e conforto aos usuários</p>
+
+<p align="justify">A Treelogy System é um sistema gerencial focado em fornecer ferramentas de gestão e
+gerenciamento de negócios, oferecendo soluções a diversos segmentos do mercado privado,
+como desenvolvimento de software, adotando metodologia ágil, logística internacional e a
+gestão da cadeia de suprimentos e gestão financeira.</p>
 
 ## STATUS DO PROJETO
 ---
@@ -18,14 +31,15 @@
 ---
 
  <!--ts-->
-   * [FEATURES](#FEATURES)
+   * [FUNCIONALIDADES](#FUNCIONALIDADES)
+   * [DOCUMENTAÇÃO](#DOCUMENTAÇÃO)
    * [TECNOLOGIAS-UTILIZADAS](#TECNOLOGIAS-UTILIZADAS)
    * [AUTOR](#AUTOR)
    * [LICENÇA](#LICENÇA)
 <!--te-->
  
 
-## FEATURES
+## FUNCIONALIDADES
 ---
 - [X] Arquiterura microserviço
 - [X] Orquestração de container com kubernetes
@@ -37,6 +51,14 @@
 - [X] Single Sign-on (SSO), login único.
 - [X] Monitoramento e alerta de eventos.
 - [X] Visualização interativa de alerta.
+
+## DOCUMENTAÇÃO
+---
+
+- [Proposta de Desenvolvimento](./assets/proposta%20desenvolvimento%20software%20-%20Treelogy.pdf)
+
+- [Requisitos do sistema](./assets/Documento%20de%20requisitos%20-%20treelogy%20system.pdf)
+
 
 ## ORDEM CONFIGURAÇÃO
 ---
