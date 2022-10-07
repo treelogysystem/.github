@@ -1,6 +1,6 @@
 
 
-<img src="assets/icone-treelogy-v2.png">
+<img src="./assets/icone-treelogy-v2.png">
 
 <h3 align="justify">Repositório de configuração dos servidores de suporte</h3>
 
@@ -12,7 +12,7 @@
 ## STATUS DO PROJETO
 ---
 
-> Status do Projeto: Concluído :heavy_check_mark:
+> Status do Projeto: Em andamento :heavy_check_mark:
 
 ## TABELA DE CONTEÚDOS
 ---
@@ -57,7 +57,12 @@ As seguintes tecnologias foram usadas na construção do projeto:
 - [DOCKER](https://docs.docker.com/desktop/windows/install/)
 - [KUBERNETES](https://kubernetes.io/pt-br/)
 - [RANCHER](https://rancher.com/)
-
+- [PROMETHEUS](https://prometheus.io/)
+- [SONARQUBE](https://docs.sonarqube.org/latest/)
+- [KEYCLOAK](https://www.keycloak.org/documentation)
+- [GRAFANA](https://grafana.com/docs/grafana/latest/)
+- [POSTGRES](https://www.postgresql.org/docs/)
+- [JENKINS](https://www.jenkins.io/doc/)
 
 ## **AUTOR**
 ---
