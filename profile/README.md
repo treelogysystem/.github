@@ -57,7 +57,7 @@ gestão da cadeia de suprimentos e gestão financeira.</p>
 
 - [Proposta de Desenvolvimento](./profile/assets/proposta%20desenvolvimento%20software%20-%20Treelogy.pdf)
 
-- [Requisitos do sistema](./profile/Documento%20de%20requisitos%20-%20treelogy%20system.pdf)
+- [Requisitos do sistema](./profile/assets/Documento%20de%20requisitos%20-%20treelogy%20system.pdf)
 
 
 ## ORDEM CONFIGURAÇÃO
