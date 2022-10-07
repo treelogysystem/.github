@@ -1,6 +1,6 @@
 
 
-<img src="./assets/icone-treelogy-v2.png">
+<img src="./profile/assets/icone-treelogy-v2.png">
 
 <h3 align="justify">Repositório de versionamento do sistema treelogy</h3>
 
@@ -55,9 +55,9 @@ gestão da cadeia de suprimentos e gestão financeira.</p>
 ## DOCUMENTAÇÃO
 ---
 
-- [Proposta de Desenvolvimento](./assets/proposta%20desenvolvimento%20software%20-%20Treelogy.pdf)
+- [Proposta de Desenvolvimento](./profile/assets/proposta%20desenvolvimento%20software%20-%20Treelogy.pdf)
 
-- [Requisitos do sistema](./assets/Documento%20de%20requisitos%20-%20treelogy%20system.pdf)
+- [Requisitos do sistema](./profile/Documento%20de%20requisitos%20-%20treelogy%20system.pdf)
 
 
 ## ORDEM CONFIGURAÇÃO
