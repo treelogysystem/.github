@@ -81,7 +81,6 @@ As seguintes tecnologias foram usadas na construção do projeto:
 - [RANCHER](https://rancher.com/)
 - [PROMETHEUS](https://prometheus.io/)
 - [SONARQUBE](https://docs.sonarqube.org/latest/)
-- [KEYCLOAK](https://www.keycloak.org/documentation)
 - [GRAFANA](https://grafana.com/docs/grafana/latest/)
 - [POSTGRES](https://www.postgresql.org/docs/)
 - [JENKINS](https://www.jenkins.io/doc/)
